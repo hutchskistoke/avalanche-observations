@@ -13,7 +13,7 @@ This Avalanche Observation App will be an Airtable and React build where the use
 Upload images of your wireframes to an image hosting site or add them to an assets folder in your repo and link them here with a description of each specific wireframe.
 
 ## Component Hierarchy
-![](https://imgur.com/VzYIcbI)
+[ch](https://i.imgur.com/VzYIcbI.jpg)
 
 ## API and Data Sample
 
