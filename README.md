@@ -58,7 +58,7 @@ Show us a snippet of JSON returned by your Airtable (you can find it under the A
 #### MVP 
 
 - Create an API using Airtable
-- Render data in a feed style with newest data displayed at the top
+- Render data in a feed style with newest data displayed at the top of the page
 - Create a form component that allows users to add an observation
 - Create a clickable delete button to remove a post
 - Create an About component that explains the purpose of this site
@@ -90,10 +90,12 @@ Show us a snippet of JSON returned by your Airtable (you can find it under the A
 | Create API | H | 2hrs| hrs | hrs |
 | Initial React App setup | H | 3hrs| hrs | hrs |
 | Render Axios Data | H | 3hrs| hrs | hrs |
-| Post Data to Airtable | H | 4hrs| hrs | hrs |
+| Post Data to Airtable | H | 2hrs| hrs | hrs |
 | Delete From Airtable | H | 3hrs| hrs | hrs |
 | Routes and path configuration | H | 3hrs| hrs | hrs |
 | Clickable Links | H | 3hrs| hrs | hrs |
 | CSS | H | 10hrs| hrs | hrs |
-| Total | H | 31hrs| hrs | hrs |
+| Debugging | H | 10hrs| hrs | hrs |
+| Media Query | H | 2hrs| hrs | hrs |
+| Total | H | 41hrs| hrs | hrs |
 
