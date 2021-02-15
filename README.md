@@ -95,5 +95,5 @@ Show us a snippet of JSON returned by your Airtable (you can find it under the A
 | Routes and path configuration | H | 3hrs| hrs | 3.5hrs |
 | Clickable Links | H | 3hrs| hrs | 3.5hrs |
 | CSS | H | 10hrs| hrs | 3.5hrs |
-| Total | H | 6hrs| hrs | 5hrs |
+| Total | H | 31hrs| hrs | 5hrs |
 
