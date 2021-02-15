@@ -23,35 +23,39 @@ Show us a snippet of JSON returned by your Airtable (you can find it under the A
 {
     "records": [
         {
-            "id": "recONRzIUTuZ5lXaF",
+            "id": "recGEbA9i7CZIUooP",
             "fields": {
-                "author": "Liz Yrineo",
-                "setup": "Why did the tomato turn red?",
-                "punchline": "Because it saw the salad dressing!"
+                "type": "Avalanche",
+                "location": "Flagpole Peak",
+                "description": "Storm slab avalanche. 1ft crown. Human trigger. One person injured",
+                "date": "2/12/2021"
             },
-            "createdTime": "2020-11-30T16:03:09.000Z"
+            "createdTime": "2021-02-15T15:20:22.000Z"
         },
         {
-            "id": "rec3oYZ5Tp0AIDsKe",
+            "id": "recRV0eKzvoMmAEwe",
             "fields": {
-                "author": "Rachel Moskowitz",
-                "setup": "What did the green grape say to the red grape?",
-                "punchline": "Breathe, idiot, breathe!"
+                "type": "Avalanche",
+                "date": "2/12/2021",
+                "location": "Blue Lakes",
+                "description": "Storm slab avalanche. Triggered by skier. Skier was swept over cliffs and care flighted to Reno with severe injuries. "
             },
-            "createdTime": "2020-11-30T16:03:09.000Z"
+            "createdTime": "2021-02-15T15:20:22.000Z"
         },
         {
-            "id": "recA34tOaoE1IVeC1",
+            "id": "rec67mRXj7FTvXUFi",
             "fields": {
-                "author": "Gary Grant",
-                "setup": "How do you make holy water?",
-                "punchline": "You boil the hell out of it!"
+                "type": "Observation",
+                "date": "2/13/2021",
+                "location": "Castle Peak",
+                "description": "A pit test revealed a persistent weak layer approximately 14\" deep. "
             },
-            "createdTime": "2020-11-30T16:03:09.000Z"
+            "createdTime": "2021-02-15T15:20:22.000Z"
         }
     ],
-    "offset": "recA34tOaoE1IVeC1"
+    "offset": "rec67mRXj7FTvXUFi"
 }
+
 ```
  
 
