@@ -87,13 +87,13 @@ Show us a snippet of JSON returned by your Airtable (you can find it under the A
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Create API | H | 2hrs| hrs | 3.5hrs |
-| Initial React App setup | H | 3hrs| hrs | 2.5hrs |
-| Render Axios Data | H | 3hrs| hrs | 3.5hrs |
-| Post Data to Airtable | H | 4hrs| hrs | 3.5hrs |
-| Delete From Airtable | H | 3hrs| hrs | 3.5hrs |
-| Routes and path configuration | H | 3hrs| hrs | 3.5hrs |
-| Clickable Links | H | 3hrs| hrs | 3.5hrs |
-| CSS | H | 10hrs| hrs | 3.5hrs |
-| Total | H | 31hrs| hrs | 5hrs |
+| Create API | H | 2hrs| hrs | hrs |
+| Initial React App setup | H | 3hrs| hrs | hrs |
+| Render Axios Data | H | 3hrs| hrs | hrs |
+| Post Data to Airtable | H | 4hrs| hrs | hrs |
+| Delete From Airtable | H | 3hrs| hrs | hrs |
+| Routes and path configuration | H | 3hrs| hrs | hrs |
+| Clickable Links | H | 3hrs| hrs | hrs |
+| CSS | H | 10hrs| hrs | hrs |
+| Total | H | 31hrs| hrs | hrs |
 
