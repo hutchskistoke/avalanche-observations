@@ -10,10 +10,10 @@ Avy Savy is an avalanche observation and reporting app built with Airtable and R
 
 ## Wireframes
 
-Upload images of your wireframes to an image hosting site or add them to an assets folder in your repo and link them here with a description of each specific wireframe.
+![desktop wireframe] (https://imgur.com/tlQMDVv)
 
 ## Component Hierarchy
-![here](https://i.imgur.com/VzYIcbI.jpg)
+![component hierarchy](https://i.imgur.com/VzYIcbI.jpg)
 
 ## API and Data Sample
 
@@ -69,6 +69,7 @@ Show us a snippet of JSON returned by your Airtable (you can find it under the A
 
 #### PostMVP  
 
+- Incorporate Photos
 - Allow users to edit posts
 - secondary external API to add a current weather page
 - add an education page
