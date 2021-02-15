@@ -2,18 +2,18 @@
 
 ## Project Name
 
-Avalanche Observations
+Avy Savy
 
 ## Project Description
 
-This Avalanche Observation App will be an Airtable and React build where the user can view previous avalanche reports and add a report themselves.   
+Avy Savy is an avalanche observation and reporting app built with Airtable and React where the user can view previous avalanche reports and add a report themselves.   
 
 ## Wireframes
 
 Upload images of your wireframes to an image hosting site or add them to an assets folder in your repo and link them here with a description of each specific wireframe.
 
 ## Component Hierarchy
-[here](https://i.imgur.com/VzYIcbI.jpg)
+![here](https://i.imgur.com/VzYIcbI.jpg)
 
 ## API and Data Sample
 
